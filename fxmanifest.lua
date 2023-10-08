@@ -5,5 +5,5 @@ version '1.0'
 description 'Map Item'
 author 'Military Scar'
 
-client_scripts 'client.lua'
+client_script 'client.lua'
 server_script 'server.lua'
